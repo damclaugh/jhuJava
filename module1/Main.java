@@ -16,6 +16,6 @@ public class Main {
                 "J\t\b\b\b\bJ\t\bAAAAA\tV\t\b\b\b\b\b\bV\t\b\bAAAAA");
         System.out.println(
                 " J J\t\b\bA\t\t\b\b\b\bA\t V\t\b\b\bA\t\t\b\b\b\b\bA");
-        // end main ()
+        // end main method
     }
-} // end class Main
+} // end Main class
