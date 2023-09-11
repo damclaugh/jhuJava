@@ -75,5 +75,5 @@ public class SecretNumber {
             }
             choice = input.next().charAt(0);
         } while (choice != 'Q');
-    } // end main
-} // end class
+    } // end main main
+} // end SecretNumber class

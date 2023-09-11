@@ -37,5 +37,5 @@ public class Asterisks {
                     System.out.println();
                 }
         }
-    } // end main
-} // end class
+    } // end main method
+} // end Asterisks class
